@@ -21,6 +21,9 @@ tasks.withType(JavaCompile) {
 }
 
 dependencies {
+    // https://mvnrepository.com/artifact/com.cronutils/cron-utils
+    implementation group: 'com.cronutils', name: 'cron-utils', version: '9.1.3'
+
     // Pick only one of these and read the comment in the repositories block.
     compileOnly 'org.bukkit:bukkit:1.12.2-R0.1-SNAPSHOT' // The Bukkit API with no shadowing.
     // https://mvnrepository.com/artifact/com.google.code.gson/gson

@@ -1,7 +1,6 @@
-name: level
-main: com.level.lysg.Main
+name: PigSoulCircle
+main: com.ipedg.minecraft.PigSoulCircle.main
 version: 1.0
-depend: [PlaceholderAPI]
 commands:
-  level:
+  PigSoulCircle:
     default: op

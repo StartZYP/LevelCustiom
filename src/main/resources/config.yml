@@ -1,0 +1,42 @@
+HoopValue:
+  1: 3
+  2: 4
+  3: 5
+  4: 6
+  5: 7
+  6: 8
+  7: 9
+
+fps: 23
+Position:
+  x: 0
+  y: 0.1
+  z: 0
+  rotatex: 90 # 偏转度数
+  rotatey: 0
+  rotatez: 0
+
+
+
+SoulHoop:
+  Hoop_1: #自定义
+    lore: "魂环1" #检测Lore
+    texture: "DragonSoulHoop/h1.png" #贴图位置
+  Hoop_2:
+    lore: "魂环2"
+    texture: "DragonSoulHoop/h2.png"
+  Hoop_3:
+    lore: "魂环3"
+    texture: "DragonSoulHoop/h3.png"
+  Hoop_4:
+    lore: "魂环4"
+    texture: "DragonSoulHoop/h4.png"
+  Hoop_5:
+    lore: "魂环5"
+    texture: "DragonSoulHoop/h5.png"
+  Hoop_6:
+    lore: "魂环6"
+    texture: "DragonSoulHoop/h6.png"
+  Hoop_7:
+    lore: "魂环7"
+    texture: "DragonSoulHoop/h7.png"
